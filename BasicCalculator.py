@@ -26,4 +26,4 @@ elif operator == "ˆ" or operator == "**":
     print("{} ˆ {} = {}".format(number1, number2, answer))
 
 else:
-    print("Please insert a valid operator")
+    print("Please restart and insert a valid operator")
