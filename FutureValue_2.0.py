@@ -12,4 +12,4 @@
 def futureValue(presentValue, rate, numberOfPeriods):
     return (presentValue * (1+rate)**numberOfPeriods)
 
-print(futureValue(1000, 0.01, 12))
+print(futureValue(100, 0.01, 12))
